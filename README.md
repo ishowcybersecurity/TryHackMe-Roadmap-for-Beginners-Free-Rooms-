@@ -533,4 +533,4 @@ From my personal experience with TryHackMe, I can confidently say that the platf
 Found a broken link or have suggestions? Open an issue or PR!
 
 ## 📜 License
-This roadmap is free to use under [MIT License](LICENSE).
+This roadmap is free to use under [MIT License]
