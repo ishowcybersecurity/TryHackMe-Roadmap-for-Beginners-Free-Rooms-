@@ -1,4 +1,4 @@
-# 🚀 Getting Started with Hacking on TryHackMe
+# 🚀 Getting Started with Hacking on TryHackMe (FREE)
 
 ### @ishowcybersecurity (Ghulam Mohiuddin)
 
@@ -523,6 +523,10 @@ A structured TryHackMe (THM) room roadmap from beginner to advanced cybersecurit
 - [Dirty Pipe: CVE-2022-0847](https://tryhackme.com/room/dirtypipe)
 - [The find command](https://tryhackme.com/room/thefindcommand)
 
+## 🤝 Conclusion
+To summarize, the TryHackMe learning path is perfect for beginners who want to get into cybersecurity. It provides clear instructions and practical tasks to help you understand the basics and grow your skills.
+
+From my personal experience with TryHackMe, I can confidently say that the platform has helped me a lot in becoming more knowledgeable in cybersecurity. The various challenges and tools have broadened my understanding and sharpened my skills over time.
 ---
 
 ## 🤝 Contribution
